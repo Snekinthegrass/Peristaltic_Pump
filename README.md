@@ -1,9 +1,6 @@
 # Peristaltic_Pump
 
-# <===========================================>
-# <==============Build Notes=====================>
-# <===========================================>
-
+# Build Notes
 # **MOTOR SHAFT IN THIS DESIGN IS 10MM**
 
 If your motor has a different shaft diameter(it probably does) please modify .f3d accordingly before printing rotor
