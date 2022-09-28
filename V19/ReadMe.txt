@@ -17,34 +17,23 @@ J): Printed Parts
 	4): 5x Rollers
 
 <============================================>
-<==============Build Notes===================>
+<============Basic Instructions==============>
 <============================================>
 
-<===This design is still is a work in progress===>
-<===If you choose to print as is please expect to waste filament/resin===>
+->Set M5 nuts into bottom half shell use screw to pull them into the plastic, use a longer screw than need so if nuts deform plastic and spin in place you can push them out. 
 
-->**MOTOR SHAFT IN THIS DESIGN IS 10MM**
+->Set M5 Nuts into rotor same process as bottom halfshell. 
 
-->If your motor has a different shaft diamter(it probably does) please modify .f3d accordingly before printing rotor
+->Assemble rotor with rollers 
+Insert 625 bearings into rollers, they should be able to be insert with very little effort and be able to be removed with out forcing them. 
+Don't try to force bearings to fit they may go but they'll get crunchy quickly, like 2/3rds of my bearings are now :<
 
-->If annoying stepper motor noises are annoying to you too, I would advise not cheaping out on the stepper driver. 
+-> Insert rollers with bearings into the rotor and secure with m5x30 and nut, they don't need to be very tight just enough so they won't back out, blue locktight may help.
 
-->Designed for A nema 23 with a 10x20mm shaft 
+-> Attach bottom halfshell to stepper with M5x10 I had to use washers between motor and shell and a set of m5 nuts between top of the screw and the motor to ensure screws do not protrude to far, they should end up flush.
 
-->All M5 Screws are socket head type.
+-> Insert assembled rotor assembly onto the motor shaft take care to get the placement correct the set screw hole should be just about inline with the tool access hole(the nose of the face).
 
-->Designed with printing the rotor and rollers on Saturn SLA resin printer but a well tuned fdm printer should do it, though post processing is likely going to be needed either way.
+-> Insert tubing, helps to turn the rotor, get the tube down about halfway between body and rollers. 
 
-->When tightening the Pump Housing half shells togther be mindfull not to pinch the tubing especially at the inlet/outlet ports
-	-> When tightening half shells togther go slowly and tighten down each screw a little at a time before moving to the next screw so the top shells move down over the tubing evenly.
-
-->The 625 bearings should slide into the rollers without force, they should be snug but not forced, they will break if they are forced into a hole that is too small for them and forced to rotate
-	-> 2/3rds of my bearings are now crunchy :>
-
-->It is worth smoothing down any sharp edges left over from the printing process anywhere where the silicone tube comes into contact with the printed parts. 
-
-->I will release the STLs seperatly from the .f3d when I have a tested working version I can be confident won't waste anyones time or plastic.
-
- 
-
-
+-> Carefully tighten down the top halfshell making sure not to pinch the tubing, the housing don't need to be torqued down real tight get them flush and once you test run the motor back off enough the motor runs smoothly. 
