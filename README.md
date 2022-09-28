@@ -20,6 +20,8 @@ May be worth using super glue to permentaly set the nuts on the bottom halfshell
 
 M5 Screws securing the halfshells togther should be able to be inserted all the way to the nut without interfacing with the plastic, if they do drill or file to the correct size before securing hose in place. 
 
+Only tested with a 4.2A 3NM Stepper motor I'd assume they'll be fine but it remains untested. 
+
 
  
 
