@@ -1,21 +1,4 @@
 # Peristaltic_Pump
-<============================================>
-<============Bill of Materials===============>
-<============================================>
-A): 5 M5x30mm          (Rotor->Roller)
-B): 4 M5x40-50mm          (Pump Body -> Pump Body)
-C): 4 M5x10mm          (Pump Body -> Nema23,  May require a washer between pump and stepper. Screw ends should be flush
-D): 2 M5x30mm          (SetScrews)
-E): 15 M5 nuts
-F): 10 625-2RS Bearing (Roter -> rollers)
-G): 9mm ID x 12mm OD silcone tubing (length is up to your judgment)
-H): 1 Nema23 stepper with 10mm shaft 
-I): 1 Stepper Driver spec'd to your motor
-J): Printed Parts
-	1): 1x Pump Housing Top
-	2): 1x Pump Housing Bottom
-	3): 1x Rotor
-	4): 5x Rollers
 
 <============================================>
 <==============Build Notes===================>
