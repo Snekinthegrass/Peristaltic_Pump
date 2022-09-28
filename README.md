@@ -1,8 +1,8 @@
 # Peristaltic_Pump
 
-# Build Notes
 # **MOTOR SHAFT IN THIS DESIGN IS 10MM**
 
+# Build Notes
 If your motor has a different shaft diameter(it probably does) please modify .f3d accordingly before printing rotor
 
 Designed for A nema 23 stepper motor with a 10x20mm shaft 
